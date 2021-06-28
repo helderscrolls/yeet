@@ -12,7 +12,7 @@ If you face any issue please Google it or pray for it to go away. :hearts:
 
 `docker-compose up`
 
-:warning: For the API to run smoothly please turn off any instance of MongoDB (or any server really) running on port 27017. :warning:
+:warning: For the API to run smoothly please turn off any instance of MongoDB (or any server really) running on port 27017.:warning:
 
 The NestJS Project will run on `localhost:3000`
 
