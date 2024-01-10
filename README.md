@@ -26,7 +26,7 @@ The NestJS Project will run on `localhost:3000`
 The Ionic Project will run on `localhost:4200`
 
 
-# Mot so confidential data
+# Not so confidential data
 `MONGO_DB_URL=mongodb://chat-admin:password123@localhost/chat`
 
 `JWT_SECRET_PASSWORD=supper-dupper-ultra-mega-giga-secret`
